@@ -1,3 +1,27 @@
+  GNU nano 7.2                        README.md                                 
+<div align="center">
+
+# 🛡️ SentinelLite
+### AI-Powered SOC Automation System for Real-Time Threat Detection and Response
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=>
+[![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)]>
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=fl>
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-th>
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=f>
+
+> A lightweight Security Operations Center (SOC) automation tool that integrate>
+
+</div>
+
+---
+
+## 📌 What Problem Does This Solve?
+
+Most organizations can't afford enterprise SIEM tools like Splunk or IBM QRadar>
+                               [ Read 186 lines ]
+^G Help      ^O Write Out ^W Where Is  ^K Cut       ^T Execute   ^C Location
+^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
 <div align="center">
 
 # 🛡️ SentinelLite
