@@ -51,6 +51,9 @@ class Alert(Base):
     # Protocol: TCP, UDP, ICMP
     protocol = Column(String(10))
 
+    # MITRE ATT&CK technique (e.g. T1110.003, T1078      
+    mitre_technique = Column(String(20))
+
     # Human-readable description of the threat
     message = Column(Text, nullable=False)
 
